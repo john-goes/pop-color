@@ -7,9 +7,18 @@
   █  v1.2: João Góes<br><p>&nbsp;</p>
 
 <br>
-  <b>============================================================
+ <b>=================================
+    DESCRIÇÃO/ INSTRUÇÕES DE USO:
+  =================================</b>
+
+ <b><u> ▬ PopColor v1.0 </b></u>
+  <p>Jogo de lógica, cujo objetivo é encontrar a combinação secreta de cores. São três níveis de dificuldade.
+  É possível desvendar a sequência através do número de erros e da comparação com os resultados anteriores.
+  Excelente p/ quem está estudando lógica de programação e javascript ou quer simplesmente se divertir ou testar suas habilidades mentais.</p>
+  <br>
+  <b>==================================================
     PopColor v1.0 - Jogo de lógica para quem gosta de pensar
-  ============================================================</b>
+  =================== =================================</b>
 <p>
   >> Este script foi exaustivamente testado, mas pode ser
   que ainda haja erros. Se encontrar algum bug, um algoritmo
@@ -20,11 +29,4 @@
   só que se for publicar em algum site com conteúdo para
   desenvolvedores, lembre-se de fornecer os devidos créditos.</p>
 <br><br>
-  <b>=================================
-    DESCRIÇÃO/ INSTRUÇÕES DE USO:
-  =================================</b>
-
- <b><u> ▬ PopColor v1.0 </b></u>
-  <p>Jogo de lógica, cujo objetivo é encontrar a combinação secreta de cores. São três níveis de dificuldade.
-  É possível desvendar a sequência através do número de erros e da comparação com os resultados anteriores.
-  Excelente p/ quem está estudando lógica de programação e javascript ou quer simplesmente se divertir ou testar suas habilidades mentais.</p>
+ 
