@@ -16,9 +16,9 @@
   É possível desvendar a sequência através do número de erros e da comparação com os resultados anteriores.
   Excelente p/ quem está estudando lógica de programação e javascript ou quer simplesmente se divertir ou testar suas habilidades mentais.</p>
   <br>
-  <b>==================================================
+  <b>==============================
     PopColor v1.0 - Jogo de lógica para quem gosta de pensar
-  =================== =================================</b>
+  =================================</b>
 <p>
   >> Este script foi exaustivamente testado, mas pode ser
   que ainda haja erros. Se encontrar algum bug, um algoritmo
