@@ -1,17 +1,10 @@
-# PopColor
-﻿
-Leia-me.txt
-
-
-
+# PopColor v1.2
 
   █  Criado em: 09/08/2009
   █  Última atualização: 16/01/2010
   █  v1.2: 29/08/2016
   █  Autor: Gabriel Barros
   █  v1.2: João Góes
-
-
 
 
   ============================================================
